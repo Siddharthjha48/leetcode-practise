@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0035-search-insert-position) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0084-largest-rectangle-in-histogram) |
 ## Stack
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
