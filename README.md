@@ -123,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
