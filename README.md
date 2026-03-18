@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0070-climbing-stairs) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Siddharthjha48/leetcode-practise/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0050-powx-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
