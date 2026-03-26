@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0704-binary-search) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0938-range-sum-of-bst) |
+| [1004-max-consecutive-ones-iii](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Siddharthjha48/leetcode-practise/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Binary Tree
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Siddharthjha48/leetcode-practise/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Siddharthjha48/leetcode-practise/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
