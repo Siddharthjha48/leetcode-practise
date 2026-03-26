@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0704-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0904-fruit-into-baskets](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0904-fruit-into-baskets) |
 | [1980-find-unique-binary-string](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1980-find-unique-binary-string) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Siddharthjha48/leetcode-practise/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3866-first-unique-even-element](https://github.com/Siddharthjha48/leetcode-practise/tree/master/3866-first-unique-even-element) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
