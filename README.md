@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1980-find-unique-binary-string](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Siddharthjha48/leetcode-practise/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Siddharthjha48/leetcode-practise/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3866-first-unique-even-element](https://github.com/Siddharthjha48/leetcode-practise/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Siddharthjha48/leetcode-practise/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Siddharthjha48/leetcode-practise/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Math
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/Siddharthjha48/leetcode-practise/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Siddharthjha48/leetcode-practise/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Siddharthjha48/leetcode-practise/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Greedy
 |  |
 | ------- |
