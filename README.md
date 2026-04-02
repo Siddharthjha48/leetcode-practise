@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Siddharthjha48/leetcode-practise/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Siddharthjha48/leetcode-practise/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0424-longest-repeating-character-replacement) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
 |  |
