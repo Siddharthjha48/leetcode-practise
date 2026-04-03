@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0704-binary-search) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0424-longest-repeating-character-replacement) |
+| [0523-continuous-subarray-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0904-fruit-into-baskets) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0070-climbing-stairs) |
+| [0523-continuous-subarray-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Siddharthjha48/leetcode-practise/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0724-find-pivot-index) |
