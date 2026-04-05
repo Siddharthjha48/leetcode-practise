@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0424-longest-repeating-character-replacement) |
+| [0657-robot-return-to-origin](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0657-robot-return-to-origin) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0657-robot-return-to-origin) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Siddharthjha48/leetcode-practise/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Sliding Window
