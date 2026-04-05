@@ -5,7 +5,6 @@ public:
         for(int i=0;i<moves.length();i++){
             char c = moves[i];
             if(c == 'L'){
-
                 l++;
             }
             
