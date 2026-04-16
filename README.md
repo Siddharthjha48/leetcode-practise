@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1980-find-unique-binary-string) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0152-maximum-product-subarray) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/Siddharthjha48/leetcode-practise/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Siddharthjha48/leetcode-practise/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
