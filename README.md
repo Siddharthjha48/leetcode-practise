@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1480-running-sum-of-1d-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1248-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1480-running-sum-of-1d-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Siddharthjha48/leetcode-practise/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Siddharthjha48/leetcode-practise/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
