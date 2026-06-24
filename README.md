@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Siddharthjha48/leetcode-practise/tree/master/3643-flip-square-submatrix-vertically) |
