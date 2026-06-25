@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0283-move-zeroes) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0088-merge-sorted-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
