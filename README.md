@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0992-subarrays-with-k-different-integers) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0713-subarray-product-less-than-k) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0875-koko-eating-bananas](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0875-koko-eating-bananas) |
 | [0938-range-sum-of-bst](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0938-range-sum-of-bst) |
 | [1004-max-consecutive-ones-iii](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1305-all-elements-in-two-binary-search-trees) |
