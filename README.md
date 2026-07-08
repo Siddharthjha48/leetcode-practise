@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0189-rotate-array) |
@@ -353,5 +354,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0086-partition-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
