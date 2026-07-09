@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0146-lru-cache](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
@@ -357,5 +358,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0086-partition-list) |
+| [0146-lru-cache](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0146-lru-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0876-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
