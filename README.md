@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0713-subarray-product-less-than-k) |
@@ -364,13 +365,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0146-lru-cache) |
+| [0622-design-circular-queue](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0146-lru-cache) |
+| [0622-design-circular-queue](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0622-design-circular-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0146-lru-cache) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
