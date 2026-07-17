@@ -16,16 +16,19 @@ public:
         if(root == nullptr){
             return ans ;
         }
-        queue<TreeNode*>q ;
-        int l = 0;
-        q.push(root) ;
+        queue<TreeNode*> q;
+        q.push(root);
+        int l=0;
+
         while(!q.empty()){
-            vector<int> level ;
-            int size = q.size();
+        vector<int> level ;
+            int size =q.size();
+
             for(int i=0;i<size;i++){
                 TreeNode*front = q.front();
-                q.pop() ;
+                q.pop();
                 level.push_back(front->val);
+
                 if(front->left){
                     q.push(front->left);
                 }
@@ -34,14 +37,15 @@ public:
                 }
 
             }
-            l++ ;
-            if(l%2 == 0){
-                reverse(level.begin(),level.end());
+            if(l%2 == 1){
+                reverse(level.begin(),level.end()) ;
             }
-                ans.push_back(level);
-        }
-            return ans ;
+            
+            ans.push_back(level) ;
+            l++;
 
+        }
+        return ans ;
         
     }
 };
