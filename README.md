@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0523-continuous-subarray-sum) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0268-missing-number) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0704-binary-search](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0704-binary-search) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0146-lru-cache) |
+| [0268-missing-number](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0268-missing-number) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -341,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1009-complement-of-base-10-integer) |
 ## Heap (Priority Queue)
 |  |
