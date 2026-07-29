@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0657-robot-return-to-origin) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0992-subarrays-with-k-different-integers) |
 | [3866-first-unique-even-element](https://github.com/Siddharthjha48/leetcode-practise/tree/master/3866-first-unique-even-element) |
 ## String Matching
