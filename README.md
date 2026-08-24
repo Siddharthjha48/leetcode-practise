@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0189-rotate-array) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1009-complement-of-base-10-integer) |
 ## Heap (Priority Queue)
