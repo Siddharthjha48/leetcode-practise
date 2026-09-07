@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0994-rotting-oranges) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0922-sort-array-by-parity-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Siddharthjha48/leetcode-practise/tree/master/3643-flip-square-submatrix-vertically) |
 ## Breadth-First Search
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0922-sort-array-by-parity-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Siddharthjha48/leetcode-practise/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
