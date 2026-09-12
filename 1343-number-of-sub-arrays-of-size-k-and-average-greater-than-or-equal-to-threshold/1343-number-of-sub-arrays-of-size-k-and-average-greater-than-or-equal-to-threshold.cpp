@@ -1,32 +1,27 @@
 class Solution {
 public:
-    int numOfSubarrays(vector<int>& nums, int k, int threshold) {
-        int sum =0;
-        int avg =0;
-
+    int numOfSubarrays(vector<int>& arr, int k, int threshold) {
+        int avg = 0,sum = 0,count =0;
         for(int i=0;i<k;i++){
-            sum+=nums[i];
+            sum+=arr[i] ;
+
+
         }
+        if(sum>=k*threshold){
+                count++;
+            }
+        
 
-        int count = 0;
-        int av = sum/k;
-
-        if(av >=threshold){
-            count++;
-        }
+        for(int i=k;i<arr.size();i++){
+            sum= sum-arr[i-k] + arr[i] ;
 
 
-
-        for(int i=k;i<nums.size();i++){
-            sum+=nums[i];
-            sum-=nums[i-k];
-            avg = sum/k;
-
-            if(avg>=threshold){
-
-            count++ ;
+            if(sum>=k*threshold){
+                count++;
             }
         }
+
         return count ;
+        
     }
 };
