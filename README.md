@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0383-ransom-note) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0922-sort-array-by-parity-ii) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Siddharthjha48/leetcode-practise/tree/master/0383-ransom-note) |
